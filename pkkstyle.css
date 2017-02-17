@@ -2,6 +2,7 @@
 
 p, h1, h2, ul, ol {
   font-family: 'Nunito', sans-serif;
+  color: #383838
 }
 
 p {
@@ -10,5 +11,5 @@ p {
 
 a {
   color: maroon;
-  font-weight: bold;
+  font-weight: ;
 }
