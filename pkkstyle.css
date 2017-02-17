@@ -1,0 +1,13 @@
+/* This is what a comment looks like in CSS */
+p, h1, h2, ul {
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 12px
+}
+
+a {
+  color: maroon;
+  font-weight: bold;
+}
